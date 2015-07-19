@@ -17,3 +17,5 @@ SyntaxError: invalid syntax
 >>> shout 'hello'
 hello
 ```
+
+Checkout `test_custom_python.py` for some more examples
